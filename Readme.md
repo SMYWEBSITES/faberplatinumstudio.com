@@ -1,3 +1,3 @@
-# Hafee.in
+# Faber
 
-* A website for hafee kitchens
+* A website for FABER PLATINUM STUDIO
